@@ -1,0 +1,48 @@
+10/22/23|10pm|org.example.Transactions@1c20c684|Adam|0.0
+10/22/23|10pm|org.example.Transactions@1c20c684|AT&T|0.0
+10/22/23|10pm|org.example.Transactions@1c20c684|AT&T|0.0
+10/22/23|10pm|org.example.Transactions@1c20c684|AT&T|0.0
+10/22/23|10pm|org.example.Transactions@1c20c684|AT&T|0.0
+10-22-23|10pm|org.example.Transactions@1c20c684|At&T|0.0
+10/22/23|10pm|org.example.Transactions@1c20c684|Adam|0.0
+10/22/23|10pm|org.example.Transactions@548c4f57|At&T|0.0
+1|1|org.example.Transactions@214c265e|1|0.0
+1|1|org.example.Transactions@448139f0|1|0.0
+10/22/23|7 pm|org.example.Transactions@1c20c684|AT&T|0.0
+09/10/23|10pm|org.example.Transactions@1c20c684|At&T|0.0
+05-10-23|10pm|org.example.Transactions@548c4f57|AT&T|0.0
+05-09-23|10pm|org.example.Transactions@1c20c684|AT&T|0.0
+05-09-23|10pm|org.example.Transactions@1c20c684|AT&T|0.0
+10-22-23|10pm|org.example.Transactions@548c4f57|At&t|0.0
+10-22-23|10pm|org.example.Transactions@1c20c684|AT&T|0.0
+10/22/23|10pm|org.example.Transactions@1c20c684|Ram|0.0
+10/22/23|10pm|org.example.Transactions@1c20c684|me|0.0
+10/22/23|10pm|org.example.Transactions@1c20c684|AT&T|0.0
+10/23/23|10pm|org.example.Transactions@1c20c684|AT&T|0.0
+10/22/23|10pm|org.example.Transactions@1c20c684|AT&T|0.0
+10/22/23|10pm|org.example.Transactions@1c20c684|At&T|0.0
+10/22/23|10pm|org.example.Transactions@1c20c684|At&t|0.0
+10/22/23|10pm|org.example.Transactions@1c20c684|Realistate|0.0
+10/22/23|10pm|Deposit|1000000.0|They take my money|AT&T
+10/22/23|10pm|Deposit|1.0E7|Idk but they like my money|Toyota
+Deposit|100000.0|Idk|10/22/23|10pm|AT&T
+Deposit|10000.0|idk|10/22/23|10pm|AT&T
+Deposit|100000.0|idk|10/22/23|10pm|AT&T
+null|0.0|null|null|null|AT&T
+null|0.0|null|null|null|AT&T
+null|0.0|null|null|null|AT&T
+null|0.0|null|null|null|AT&T
+null|0.0|null|null|null|AT&T
+null|0.0|null|null|null|AT&T
+null|0.0|null|null|null|AT&T
+10/23/23|10pm|org.example.Transactions@1c20c684|At&T|0.0
+10/22/23|10pm|org.example.Transactions@1c20c684|AT&T|0.0
+10/22/23|2pm|org.example.Transactions@7229724f|AT&T|0.0
+10/22/23|10pm|org.example.Transactions@1c20c684|AT&T|0.0
+09/12/23|10pm|org.example.Transactions@548c4f57|AT&T|0.0
+10/22/23|10pm|org.example.Transactions@31befd9f|idk|0.0
+2023-10-22|10pm|org.example.Transactions@31befd9f|LOL|0.0
+2023-10-22|10pm|org.example.Transactions@1c20c684|idk|0.0
+2023-10-22|10Pm|org.example.Transactions@1c20c684|AT&T'|0.0
+2023-09-01|11 PM|org.example.Transactions@1c20c684|AT&T|0.0
+2023|20pom|org.example.Transactions@1c20c684|AT&T|0.0
