@@ -6,9 +6,8 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.math.BigDecimal;
-import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.time.LocalTime;
+import java.sql.Date;
+import java.sql.Time;
 
 @Entity
 @Table(name = "transactions")
@@ -28,8 +27,8 @@ public class Transaction {
     @Column(nullable = false, length = 255)
     private String description;
     @Column(nullable = false)
-    private LocalDate date;
+    private Date date;
     @Column(nullable = false)
-    private LocalTime time;
+    private Time time;
 
 }
